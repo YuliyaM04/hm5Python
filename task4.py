@@ -1,3 +1,5 @@
+# Реализуйте RLE алгоритм
+
 def coding(txt):
     count = 1
     res = ''
